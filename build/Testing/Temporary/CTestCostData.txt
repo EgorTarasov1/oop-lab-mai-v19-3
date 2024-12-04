@@ -1,13 +1,13 @@
-FigureTest.HexagonArea 2 0.00345555
-FigureTest.OctagonArea 2 0.0064935
-FigureTest.TriangleArea 2 0.00905715
-FigureTest.HexagonCenter 2 0.00674575
-FigureTest.OctagonCenter 2 0.00515815
-FigureTest.TriangleCenter 2 0.0079802
-FigureTest.HexagonCopy 2 0.0100265
-FigureTest.OctagonCopy 2 0.00739255
-FigureTest.HexagonMove 2 0.00668935
-FigureTest.OctagonMove 2 0.00623355
-FigureTest.HexagonComparisonEqual 2 0.00556955
-FigureTest.TriangleComparisonNotEqual 2 0.006428
+FigureTest.HexagonArea 3 0.00483527
+FigureTest.OctagonArea 3 0.00596293
+FigureTest.TriangleArea 3 0.00419683
+FigureTest.HexagonCenter 3 0.0043547
+FigureTest.OctagonCenter 3 0.00252057
+FigureTest.TriangleCenter 3 0.00306793
+FigureTest.HexagonCopy 3 0.0035452
+FigureTest.OctagonCopy 3 0.0035397
+FigureTest.HexagonMove 3 0.00223123
+FigureTest.OctagonMove 3 0.00326077
+FigureTest.HexagonComparisonEqual 3 0.00374407
+FigureTest.TriangleComparisonNotEqual 3 0.00229813
 ---

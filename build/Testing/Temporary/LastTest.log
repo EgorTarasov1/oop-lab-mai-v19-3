@@ -1,10 +1,10 @@
-Start testing: Dec 04 21:54 RTZ 2 (çèìà)
+Start testing: Dec 04 23:34 RTZ 2 (çèìà)
 ----------------------------------------------------------
 1/12 Testing: FigureTest.HexagonArea
 1/12 Test: FigureTest.HexagonArea
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonArea" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.HexagonArea" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonArea" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.HexagonArea
@@ -22,7 +22,7 @@ Note: Google Test filter = FigureTest.HexagonArea
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.HexagonArea" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonArea" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.HexagonArea" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -30,7 +30,7 @@ Test Passed.
 2/12 Test: FigureTest.OctagonArea
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonArea" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.OctagonArea" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonArea" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.OctagonArea
@@ -45,10 +45,10 @@ Note: Google Test filter = FigureTest.OctagonArea
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.OctagonArea" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonArea" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.OctagonArea" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -56,7 +56,7 @@ Test Passed.
 3/12 Test: FigureTest.TriangleArea
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.TriangleArea" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.TriangleArea" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleArea" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.TriangleArea
@@ -71,10 +71,10 @@ Note: Google Test filter = FigureTest.TriangleArea
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.TriangleArea" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleArea" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.TriangleArea" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -82,7 +82,7 @@ Test Passed.
 4/12 Test: FigureTest.HexagonCenter
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonCenter" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.HexagonCenter" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonCenter" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.HexagonCenter
@@ -100,7 +100,7 @@ Note: Google Test filter = FigureTest.HexagonCenter
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.HexagonCenter" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonCenter" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.HexagonCenter" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -108,7 +108,7 @@ Test Passed.
 5/12 Test: FigureTest.OctagonCenter
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonCenter" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.OctagonCenter" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonCenter" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.OctagonCenter
@@ -126,7 +126,7 @@ Note: Google Test filter = FigureTest.OctagonCenter
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.OctagonCenter" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonCenter" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.OctagonCenter" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -134,7 +134,7 @@ Test Passed.
 6/12 Test: FigureTest.TriangleCenter
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.TriangleCenter" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.TriangleCenter" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleCenter" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.TriangleCenter
@@ -149,10 +149,10 @@ Note: Google Test filter = FigureTest.TriangleCenter
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.TriangleCenter" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleCenter" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.TriangleCenter" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -160,7 +160,7 @@ Test Passed.
 7/12 Test: FigureTest.HexagonCopy
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonCopy" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.HexagonCopy" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonCopy" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.HexagonCopy
@@ -175,10 +175,10 @@ Note: Google Test filter = FigureTest.HexagonCopy
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.HexagonCopy" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonCopy" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.HexagonCopy" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -186,7 +186,7 @@ Test Passed.
 8/12 Test: FigureTest.OctagonCopy
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonCopy" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.OctagonCopy" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonCopy" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.OctagonCopy
@@ -204,7 +204,7 @@ Note: Google Test filter = FigureTest.OctagonCopy
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.OctagonCopy" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonCopy" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.OctagonCopy" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -212,7 +212,7 @@ Test Passed.
 9/12 Test: FigureTest.HexagonMove
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonMove" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.HexagonMove" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonMove" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.HexagonMove
@@ -230,7 +230,7 @@ Note: Google Test filter = FigureTest.HexagonMove
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.HexagonMove" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonMove" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.HexagonMove" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -238,7 +238,7 @@ Test Passed.
 10/12 Test: FigureTest.OctagonMove
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonMove" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.OctagonMove" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonMove" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.OctagonMove
@@ -256,7 +256,7 @@ Note: Google Test filter = FigureTest.OctagonMove
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.OctagonMove" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonMove" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.OctagonMove" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -264,7 +264,7 @@ Test Passed.
 11/12 Test: FigureTest.HexagonComparisonEqual
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonComparisonEqual" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.HexagonComparisonEqual" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonComparisonEqual" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.HexagonComparisonEqual
@@ -282,7 +282,7 @@ Note: Google Test filter = FigureTest.HexagonComparisonEqual
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.HexagonComparisonEqual" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonComparisonEqual" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.HexagonComparisonEqual" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -290,7 +290,7 @@ Test Passed.
 12/12 Test: FigureTest.TriangleComparisonNotEqual
 Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.TriangleComparisonNotEqual" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/Xiaomi/Desktop/l3/build
-"FigureTest.TriangleComparisonNotEqual" start time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleComparisonNotEqual" start time: Dec 04 23:34 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FigureTest.TriangleComparisonNotEqual
@@ -308,8 +308,8 @@ Note: Google Test filter = FigureTest.TriangleComparisonNotEqual
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"FigureTest.TriangleComparisonNotEqual" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleComparisonNotEqual" end time: Dec 04 23:34 RTZ 2 (çèìà)
 "FigureTest.TriangleComparisonNotEqual" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Dec 04 21:54 RTZ 2 (çèìà)
+End testing: Dec 04 23:34 RTZ 2 (çèìà)
