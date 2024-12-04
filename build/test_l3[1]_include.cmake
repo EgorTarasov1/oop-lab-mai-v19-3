@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Xiaomi/Desktop/l3/build/test_l3[1]_tests.cmake")
+  include("C:/Users/Xiaomi/Desktop/l3/build/test_l3[1]_tests.cmake")
+else()
+  add_test(test_l3_NOT_BUILT test_l3_NOT_BUILT)
+endif()

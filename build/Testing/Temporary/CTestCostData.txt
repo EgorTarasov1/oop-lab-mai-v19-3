@@ -1,0 +1,13 @@
+FigureTest.HexagonArea 2 0.00345555
+FigureTest.OctagonArea 2 0.0064935
+FigureTest.TriangleArea 2 0.00905715
+FigureTest.HexagonCenter 2 0.00674575
+FigureTest.OctagonCenter 2 0.00515815
+FigureTest.TriangleCenter 2 0.0079802
+FigureTest.HexagonCopy 2 0.0100265
+FigureTest.OctagonCopy 2 0.00739255
+FigureTest.HexagonMove 2 0.00668935
+FigureTest.OctagonMove 2 0.00623355
+FigureTest.HexagonComparisonEqual 2 0.00556955
+FigureTest.TriangleComparisonNotEqual 2 0.006428
+---

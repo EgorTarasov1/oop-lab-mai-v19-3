@@ -1,0 +1,315 @@
+Start testing: Dec 04 21:54 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/12 Testing: FigureTest.HexagonArea
+1/12 Test: FigureTest.HexagonArea
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonArea" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.HexagonArea" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.HexagonArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.HexagonArea
+[       OK ] FigureTest.HexagonArea (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.HexagonArea" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/12 Testing: FigureTest.OctagonArea
+2/12 Test: FigureTest.OctagonArea
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonArea" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.OctagonArea" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.OctagonArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.OctagonArea
+[       OK ] FigureTest.OctagonArea (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.OctagonArea" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/12 Testing: FigureTest.TriangleArea
+3/12 Test: FigureTest.TriangleArea
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.TriangleArea" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.TriangleArea" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.TriangleArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.TriangleArea
+[       OK ] FigureTest.TriangleArea (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.TriangleArea" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/12 Testing: FigureTest.HexagonCenter
+4/12 Test: FigureTest.HexagonCenter
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonCenter" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.HexagonCenter" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.HexagonCenter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.HexagonCenter
+[       OK ] FigureTest.HexagonCenter (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.HexagonCenter" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonCenter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/12 Testing: FigureTest.OctagonCenter
+5/12 Test: FigureTest.OctagonCenter
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonCenter" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.OctagonCenter" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.OctagonCenter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.OctagonCenter
+[       OK ] FigureTest.OctagonCenter (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.OctagonCenter" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonCenter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/12 Testing: FigureTest.TriangleCenter
+6/12 Test: FigureTest.TriangleCenter
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.TriangleCenter" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.TriangleCenter" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.TriangleCenter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.TriangleCenter
+[       OK ] FigureTest.TriangleCenter (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.TriangleCenter" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleCenter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/12 Testing: FigureTest.HexagonCopy
+7/12 Test: FigureTest.HexagonCopy
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonCopy" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.HexagonCopy" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.HexagonCopy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.HexagonCopy
+[       OK ] FigureTest.HexagonCopy (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.HexagonCopy" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonCopy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/12 Testing: FigureTest.OctagonCopy
+8/12 Test: FigureTest.OctagonCopy
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonCopy" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.OctagonCopy" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.OctagonCopy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.OctagonCopy
+[       OK ] FigureTest.OctagonCopy (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.OctagonCopy" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonCopy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/12 Testing: FigureTest.HexagonMove
+9/12 Test: FigureTest.HexagonMove
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonMove" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.HexagonMove" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.HexagonMove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.HexagonMove
+[       OK ] FigureTest.HexagonMove (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.HexagonMove" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonMove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/12 Testing: FigureTest.OctagonMove
+10/12 Test: FigureTest.OctagonMove
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.OctagonMove" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.OctagonMove" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.OctagonMove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.OctagonMove
+[       OK ] FigureTest.OctagonMove (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.OctagonMove" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.OctagonMove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/12 Testing: FigureTest.HexagonComparisonEqual
+11/12 Test: FigureTest.HexagonComparisonEqual
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.HexagonComparisonEqual" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.HexagonComparisonEqual" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.HexagonComparisonEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.HexagonComparisonEqual
+[       OK ] FigureTest.HexagonComparisonEqual (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.HexagonComparisonEqual" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.HexagonComparisonEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/12 Testing: FigureTest.TriangleComparisonNotEqual
+12/12 Test: FigureTest.TriangleComparisonNotEqual
+Command: "C:/Users/Xiaomi/Desktop/l3/build/test_l3.exe" "--gtest_filter=FigureTest.TriangleComparisonNotEqual" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l3/build
+"FigureTest.TriangleComparisonNotEqual" start time: Dec 04 21:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.TriangleComparisonNotEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.TriangleComparisonNotEqual
+[       OK ] FigureTest.TriangleComparisonNotEqual (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.TriangleComparisonNotEqual" end time: Dec 04 21:54 RTZ 2 (çèìà)
+"FigureTest.TriangleComparisonNotEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 04 21:54 RTZ 2 (çèìà)
